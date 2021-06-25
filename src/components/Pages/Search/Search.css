@@ -1,0 +1,8 @@
+.search {
+    display: flex;
+    margin: 15px 0;
+  }
+.tab{
+    width: 100%;
+    justify-content: center;
+}
